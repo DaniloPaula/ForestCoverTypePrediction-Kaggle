@@ -1,0 +1,11 @@
+*.pdf
+*.png
+*.zip
+*.csv
+*.jpg
+*.jpeg
+*.docx
+*.xlsx
+*.xlsm
+*.doc
+models/.ipynb_checkpoints/
